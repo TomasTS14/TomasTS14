@@ -19,7 +19,7 @@ frontend frameworks such as **React**, **bootstrap**. Backend technologies such 
 - https://tomasts14.github.io/Listacompra_react_css/ [^2]
 [^2]: Similar to the library app but without using react boostrap and just plain css styling.
 
--https://github.com/TomasTS14/actividad7 [^3]
+- https://github.com/TomasTS14/actividad7 [^3]
 [^3]: REST API in Typescript for a videogame store website, it uses JWT por Auth an BCrypt for password hashing, the Databse is deployed in AWS
 
 
