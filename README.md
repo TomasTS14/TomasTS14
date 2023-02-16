@@ -6,13 +6,13 @@ In conclusion, I'd say im definitley a curious and ethusiastic person, which can
 Currently, due to my studies and current interests im mainly focused on web technologies. Such as DBMS, relational and non-relational (**Mongo, Postgres or MySQL**),
 frontend frameworks such as **React**, **bootstrap**. Backend technologies such as **Springboot** or **Express**. And deployment related technologies and enviroments such as **AWS**, **Docker** 🐳 or **Apache** and **NGINX** .
 
-The programming lenguages that i've used both in my free time and my studies are:
+### Programming lenguages that i've used both in my free time and my studies are:
 - Java. ☕
 - Javascript. 
 - Typescript.
 - Python. 🐍
 
-Some small projects I've made are:
+### Some small projects I've made are:
 - https://tomasts14.github.io/biblioteca_react_bootstrap/  [^1]
 [^1]:Small library book lending and retrieving site using a fake api with json-placeholder, react and react-bootstrap.
 
