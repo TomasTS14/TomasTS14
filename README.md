@@ -14,7 +14,7 @@ frontend frameworks such as **React**, **bootstrap**. Backend technologies such 
 
 ### Some small projects I've made are:
 - https://tomasts14.github.io/biblioteca_react_bootstrap/  [^1]
-[^1]:Small library book lending and retrieving site using a fake api with json-placeholder, react and react-bootstrap.
+[^1]:Small library book lending and retrieving site using a fake api with json-placeholder, react and react-bootstrap (hint: use jomar as user and abc as password).
 
 - https://tomasts14.github.io/Listacompra_react_css/ [^2]
 [^2]: Similar to the library app but without using react boostrap and just plain css styling.
