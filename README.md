@@ -1,11 +1,13 @@
 ## About me ✏️ :
-I'm Tomás Torres. Currently I'm a student at a technical degree in Web Programming :technologist: in the CPIFP Piramide in Huesca .I would describe myself mostly as a curious person, eager to learn, experience and try out new things, be it in programming (one of my main hobbies along with painting 🖌️ and videogames 🎮) or in life in general.
+I'm Tomás Torres. I studied a technical degree in Web Programming :technologist: in the CPIFP Piramide in Huesca .I would describe myself mostly as a curious person, eager to learn, experience and try out new things, be it in programming (one of my main hobbies along with painting 🖌️ and videogames 🎮) or in life in general.
 
-I've lived in at least 8 different locations across 3 countries 🗺️, where i've faced new people, new cultures, and of course, new lenguages. This has given me the ability to deal with new challenges and handle them creatively :fire:
+I've lived in at least 8 different locations across 3 countries 🗺️, where I've met new people, new cultures, and of course, new lenguages. This has given me the ability to deal with new challenges and handle them creatively :fire:
 
 In conclusion, I'd say im definitely a positive and enthusiastic person which has made me kind of a quick learner. Although I'm just starting in the programming world, I'm eager to learn new things as I am passionate about my work.
 
-Due to my studies and current interests I'm mainly focused on web technologies, such as DBMS, relational and non-relational (**Mongo, Postgres or MySQL**); I also use frontend frameworks such as **React**, **bootstrap**, Backend technologies such as **Springboot** or **Express** and deployment related technologies and enviroments such as **AWS**, **Docker** 🐳 or **Apache** and **NGINX** .
+Due to my studies and current interests I'm mainly focused on web technologies, such as DBMS, relational and non-relational (**Mongo, Postgres or MySQL**); I also use frontend frameworks such as **React**, **Nextjs**, Backend technologies such as **Springboot** or **Express** and deployment related technologies and enviroments such as **AWS**, **Docker** 🐳 or **Apache** and **NGINX** .
+
+Check my site at www.tomastorres.info or www.tomasts14.github.io
 
 ###  Some programming lenguages that i've used both in my free time and my studies are:
 - Java. ☕
